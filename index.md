@@ -14,8 +14,8 @@ Syntax highlighted code block
 # Aditya Bastola's First CS193 Homework
 ## Purdue
 
-- Bulleted
-- List
+- I like the icebreakers.
+- I like the laid back environment in class.
 
 1. Numbered
 2. List
