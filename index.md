@@ -16,6 +16,8 @@ Syntax highlighted code block
 
 - I like the icebreakers.
 - I like the laid back environment in class.
+- The presentations are very engaging.
+- The TA's go into depth on topics.
 
 1. Numbered
 2. List
