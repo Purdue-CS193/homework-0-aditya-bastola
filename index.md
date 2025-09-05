@@ -13,7 +13,7 @@ Syntax highlighted code block
 
 # Aditya Bastola
 ## CS 193
-### Header 3
+### Purdue
 
 - Bulleted
 - List
